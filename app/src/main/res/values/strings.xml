@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lost &amp; Found App</string>
+    <string name="post_type">Post type:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="lost_and_found_items">Lost &amp; Found Items</string>
+</resources>
